@@ -47,6 +47,7 @@
     <Compile Include="C1W1MultiplyCaracyba.cs" />
     <Compile Include="C1W2CalculateInversions.cs" />
     <Compile Include="C1W3QuickSort.cs" />
+    <Compile Include="C1W4KargerGraf.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
